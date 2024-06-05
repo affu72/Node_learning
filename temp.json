@@ -1,0 +1,174 @@
+{
+  "about": {
+    "content": {
+      "media": [
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/about_1488_9616_1012.webp",
+          "type": "PHOTO"
+        }
+      ],
+      "about_text": "I am the CEO of Shine BE Happy, a delightful beyond beauty business that offers hair, nails, and skin services for men, women, and children of all ages. My expertise lies in educating individuals on all aspects of beauty from the inside out and the outside in, including aging gracefully and reversing pain and inflammation with a focus on the fascial system. I guide individuals through holistic transformational journeys to achieve their optimal health goals and regain balance, ultimately finding harmony and thriving both personally and professionally with ease.",
+      "about_title": "About Shine BE Happy"
+    }
+  },
+  "blogs": {
+    "content": {
+      "blog_text": "Take your life to the next level with our products that keep you looking and feeling healthy, inside and out.",
+      "blog_media": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/PDPAdvancedSkinSetPrimary_5624.webp",
+      "blog_title": "Shop",
+      "blogs_enable": {
+        "link": "https://artofliving.neora.com/us/en/neoraconnect"
+      },
+      "read_more_cta": "Shop Now"
+    }
+  },
+  "banner": {
+    "content": {
+      "media": [
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/1_3178_7558_9715_2886_6469_7363_2081_839_5814_6512.webp",
+          "type": "PHOTO"
+        },
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/2_1998_6919_1237_9_7842_9987_8529_5301.webp",
+          "type": "PHOTO"
+        },
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/3_4492_8209_425_3529.webp",
+          "type": "PHOTO"
+        },
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/4_1225_4652_6356_274_7133.webp",
+          "type": "PHOTO"
+        },
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/5_9497_5378.webp",
+          "type": "PHOTO"
+        },
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/6_9620_5173_6663_5902.webp",
+          "type": "PHOTO"
+        }
+      ],
+      "title": "Shine BE Happy",
+      "description": "Shine BE Happy is a place where mind, body and spirit mingle together to bring out the YOU in Be-YOU-tiful.",
+      "media_primary": {},
+      "media_secondary": {}
+    }
+  },
+  "footer": {
+    "id": 182,
+    "name": "footer",
+    "type": "footer"
+  },
+  "header": {
+    "id": 174,
+    "name": "header",
+    "type": "header",
+    "content": {
+      "header_links": [
+        {
+          "link": "banner",
+          "name": "Home"
+        },
+        {
+          "link": "category",
+          "name": "Services"
+        },
+        {
+          "link": "about",
+          "name": "About"
+        },
+        {
+          "link": "working_hrs",
+          "name": "Working Hours"
+        },
+        {
+          "link": "gallery",
+          "name": "Gallery"
+        },
+        {
+          "link": "blogs",
+          "name": "Shop"
+        },
+        {
+          "link": "testimonials",
+          "name": "Testimonials"
+        }
+      ]
+    }
+  },
+  "gallery": {
+    "content": {}
+  },
+  "category": {
+    "id": "187",
+    "name": "Services",
+    "type": "category"
+  },
+  "feel_good": {
+    "content": {
+      "blog_text": "In the pursuit of wellness and vitality, we often focus on the more visible aspects of our bodies: muscles, bones, and organs. Yet, there's a silent hero within us that plays a crucial role in our overall well-being – the fascia. Despite its significance, the fascia remains relatively unknown to many, overshadowed by more familiar bodily structures. However, understanding and nurturing this intricate network can unlock a world of benefits for both physical and mental health.",
+      "blog_media": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/blog2.jpg",
+      "blog_title": "Feel Good In Your Fascia",
+      "blogs_enable": {
+        "link": "/blogs"
+      },
+      "read_more_cta": "Read more"
+    }
+  },
+  "fab_mobile": {
+    "id": 181,
+    "name": "FAB",
+    "type": "fab_mobile"
+  },
+  "offer_card": {
+    "id": 222,
+    "name": "offer_card",
+    "type": "offer_card",
+    "content": {
+      "desc": "Feeling sluggish? Reignite your energy, focus, and zest for life with personalized coaching on primal habits & simple detox.",
+      "title": " Inquiry session",
+      "btn_text": "Book Appointment",
+      "cta_link": "#contact_form"
+    }
+  },
+  "working_hrs": {
+    "content": {
+      "media": [
+        {
+          "url": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/working_hrs_8198_9475_4723.webp",
+          "type": "PHOTO"
+        }
+      ],
+      "title": "",
+      "description": "Mobile services are available upon consultation."
+    }
+  },
+  "contact_form": {
+    "id": 180,
+    "name": "Contact Us",
+    "type": "contact_form"
+  },
+  "testimonials": {
+    "id": 179,
+    "name": "Testimonials",
+    "type": "testimonials"
+  },
+  "may_education": {
+    "content": {
+      "blog_text": "Are you Gen Z looking for more income?<br>A teen or parent of a teen whose skin is challenged?<br>A salon professional or lash or brow artist looking for a high profit margin?<br>A guy who is ready for skincare that is simple, easy, and gets real results?<br>Join us for our May Educational Sessions",
+      "blog_media": "https://d15e7bk5l2jbs8.cloudfront.net/ceebf0e9-19ca-4f99-8adc-b34f9e75b1bd/offer.jpg",
+      "blog_title": "Educational Sessions",
+      "blogs_enable": {
+        "link": "https://artofliving.neora.com/meetneora"
+      },
+      "read_more_cta": "Join Us"
+    }
+  },
+  "popup_contact": {
+    "id": 230,
+    "name": "",
+    "type": "popup_contact"
+  }
+}
